@@ -1196,7 +1196,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #fc9efe;
+  background: #37ff49;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2025,6 +2025,13 @@ pre .javascript .function {
   to {
     transform: rotateZ(-30deg);
   }
+}
+body {
+  background: url("https://ss0.baidu.com/6ON1bjeh1BF3odCf/it/u=4134256139,3855672452&fm=15&gp=0.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
 .content-wrap {
   opacity: 0.9;
